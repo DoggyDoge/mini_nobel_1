@@ -1,10 +1,10 @@
-# mini_nobel_1
+# mini_novel_1
 
 iTweenとuGUIを使った、簡単なノベルゲームっぽいものを作ってみました。
 
 ゲームジャムやプロトタイプ等でご自由にどうぞ！
 
-![directory_image](https://github.com/DoggyDoge/mini_nobel_1/blob/master/image.png?raw=true "directory_image")
+![directory_image](https://github.com/DoggyDoge/mini_novel_1/blob/master/image.png?raw=true "directory_image")
 
 * iTweenフォルダ入ってます。
 
